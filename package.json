@@ -12,6 +12,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^6.2.1"
+    "astro": "^6.2.1",
+    "framer-motion": "^12.38.0",
+    "globe.gl": "^2.45.3",
+    "three": "^0.184.0"
   }
 }
